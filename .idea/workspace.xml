@@ -44,10 +44,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="8" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.6853147" vertical-offset="178" max-vertical-offset="1335">
+            <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.86538464" vertical-offset="45" max-vertical-offset="1335">
               <folding>
-                <marker date="1416106810000" expanded="true" signature="858:1011" placeholder="..." />
-                <marker date="1416106810000" expanded="true" signature="951:979" placeholder="..." />
+                <marker date="1416106911000" expanded="true" signature="858:1011" placeholder="..." />
+                <marker date="1416106911000" expanded="true" signature="951:979" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -457,10 +457,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.6853147" vertical-offset="178" max-vertical-offset="1335">
+        <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.86538464" vertical-offset="45" max-vertical-offset="1335">
           <folding>
-            <marker date="1416106810000" expanded="true" signature="858:1011" placeholder="..." />
-            <marker date="1416106810000" expanded="true" signature="951:979" placeholder="..." />
+            <marker date="1416106911000" expanded="true" signature="858:1011" placeholder="..." />
+            <marker date="1416106911000" expanded="true" signature="951:979" placeholder="..." />
           </folding>
         </state>
       </provider>
