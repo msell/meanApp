@@ -1,5 +1,5 @@
 {
-  "name": "mean-example1",
+  "name": "meanApp",
   "version": "0.0.0",
   "dependencies": {
     "angular": "^1.3.0",
