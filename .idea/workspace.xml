@@ -35,16 +35,16 @@
       <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+            <state line="4" column="77" selection-start="347" selection-end="347" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.86538464" vertical-offset="45" max-vertical-offset="1335">
+            <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="-20.625" vertical-offset="45" max-vertical-offset="1335">
               <folding>
                 <marker date="1416106911000" expanded="true" signature="858:1011" placeholder="..." />
                 <marker date="1416106911000" expanded="true" signature="951:979" placeholder="..." />
@@ -62,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1920">
+            <state line="106" column="33" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.58128077" vertical-offset="1236" max-vertical-offset="1875">
               <folding />
             </state>
           </provider>
@@ -128,10 +128,10 @@
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.config.js" />
         <option value="$PROJECT_DIR$/app/styles/bootstrap-slate.css" />
-        <option value="$PROJECT_DIR$/app/views/register.html" />
         <option value="$PROJECT_DIR$/app/styles/bootstrap-superhero.css" />
-        <option value="$PROJECT_DIR$/app/styles/main.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views/register.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
       </list>
     </option>
   </component>
@@ -434,13 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/bootstrap-superhero.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6553" column="0" selection-start="148524" selection-end="148524" vertical-scroll-proportion="0.0" vertical-offset="97781" max-vertical-offset="98400">
@@ -448,20 +441,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1920">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.86538464" vertical-offset="45" max-vertical-offset="1335">
+        <state line="36" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="-20.625" vertical-offset="45" max-vertical-offset="1335">
           <folding>
             <marker date="1416106911000" expanded="true" signature="858:1011" placeholder="..." />
             <marker date="1416106911000" expanded="true" signature="951:979" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="77" selection-start="347" selection-end="347" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="33" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.58128077" vertical-offset="1236" max-vertical-offset="1875">
+          <folding />
         </state>
       </provider>
     </entry>
