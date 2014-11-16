@@ -8,7 +8,7 @@
  * Controller of the meanApp
  */
 angular.module('meanApp')
-  .controller('RegisterCtrl', function ($scope, $http) {
+  .controller('RegisterCtrl', function ($scope, $http, alert) {
     $scope.submit = function () {
 
       var url = '/';
@@ -19,7 +19,7 @@ angular.module('meanApp')
           console.log('good');
         })
         .error(function (err) {
-          console.log('bad');
+          alert('warning', 'Doh!', 'Could not register');
         });
 
     }
