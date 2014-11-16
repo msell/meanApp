@@ -26,10 +26,8 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="13" selection-start="3785" selection-end="3785" vertical-scroll-proportion="-11.923077" vertical-offset="2015" max-vertical-offset="6210">
-              <folding>
-                <marker date="1416102563000" expanded="true" signature="6995:7195" placeholder="{...}" />
-              </folding>
+            <state line="319" column="42" selection-start="7964" selection-end="7973" vertical-scroll-proportion="-140.1923" vertical-offset="1140" max-vertical-offset="6210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,28 +35,46 @@
       <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+            <state line="7" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="21" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1305">
+            <state line="38" column="8" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.6853147" vertical-offset="178" max-vertical-offset="1335">
               <folding>
-                <marker date="1416105289000" expanded="true" signature="654:807" placeholder="..." />
-                <marker date="1416105289000" expanded="true" signature="747:775" placeholder="..." />
+                <marker date="1416106810000" expanded="true" signature="858:1011" placeholder="..." />
+                <marker date="1416106810000" expanded="true" signature="951:979" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bootstrap-superhero.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/bootstrap-superhero.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6553" column="0" selection-start="148524" selection-end="148524" vertical-scroll-proportion="0.0" vertical-offset="97781" max-vertical-offset="98400">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="22" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1920">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632">
+            <state line="5" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -110,8 +126,12 @@
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.config.js" />
+        <option value="$PROJECT_DIR$/app/styles/bootstrap-slate.css" />
+        <option value="$PROJECT_DIR$/app/views/register.html" />
+        <option value="$PROJECT_DIR$/app/styles/bootstrap-superhero.css" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -252,6 +272,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mean-example-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mean-example-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -356,25 +394,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="13" selection-start="3785" selection-end="3785" vertical-scroll-proportion="-11.923077" vertical-offset="2015" max-vertical-offset="6210">
-          <folding>
-            <marker date="1416102563000" expanded="true" signature="6995:7195" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="26" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
           <folding />
         </state>
       </provider>
@@ -398,20 +420,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1305">
-          <folding>
-            <marker date="1416105289000" expanded="true" signature="654:807" placeholder="..." />
-            <marker date="1416105289000" expanded="true" signature="747:775" placeholder="..." />
-          </folding>
+        <state line="5" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632">
+        <state line="319" column="42" selection-start="7964" selection-end="7973" vertical-scroll-proportion="-140.1923" vertical-offset="1140" max-vertical-offset="6210">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/bootstrap-superhero.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6553" column="0" selection-start="148524" selection-end="148524" vertical-scroll-proportion="0.0" vertical-offset="97781" max-vertical-offset="98400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="8" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.6853147" vertical-offset="178" max-vertical-offset="1335">
+          <folding>
+            <marker date="1416106810000" expanded="true" signature="858:1011" placeholder="..." />
+            <marker date="1416106810000" expanded="true" signature="951:979" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
