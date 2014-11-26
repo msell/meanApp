@@ -3,18 +3,29 @@
  */
 angular.module('meanApp').config(function ($urlRouterProvider, $stateProvider) {
 
-  // if none of these states fit, just go home
-  $urlRouterProvider.otherwise('/');
+    // if none of these states fit, just go home
+    $urlRouterProvider.otherwise('/');
 
-  $stateProvider
-    .state('main', {
-      url: '/',
-      templateUrl: '/views/main.html'
-    })
+    $stateProvider
+        .state('main', {
+            url: '/',
+            templateUrl: '/views/main.html'
+        })
 
     .state('register', {
-      url: '/register',
-      templateUrl: '/views/register.html',
-      controller: 'RegisterCtrl'
+        url: '/register',
+        templateUrl: '/views/register.html',
+        controller: 'RegisterCtrl'
+    })
+
+     .state('vehicles', {
+        url: '/vehicles',
+        templateUrl: '/views/vehicles.html',
+        controller: 'VehiclesCtrl'
+    })
+    
+    .state('logout', {
+        url: '/logout',        
+        controller: 'LogoutCtrl'
     })
 })
